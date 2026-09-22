@@ -1,2 +1,2 @@
-console.log("Hello, Brave New World");
-console.log("Nice to meet you!");
+console.log("Goodbye, Brave New World!");
+console.log("Farewell!");
